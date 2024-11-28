@@ -1,2 +1,3 @@
 # c-exercise
-oooo
+考研数据结构算法题训练
+
